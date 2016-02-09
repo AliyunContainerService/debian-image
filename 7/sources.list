@@ -1,0 +1,3 @@
+deb http://mirrors.aliyun.com/debian/ wheezy main
+deb http://mirrors.aliyun.com/debian/ wheezy-updates main
+deb http://mirrors.aliyun.com/debian-security/ wheezy/updates main
